@@ -1,0 +1,3 @@
+/home/xenon/Desktop/project/build/CMakeFiles/boostproj.dir
+/home/xenon/Desktop/project/build/CMakeFiles/edit_cache.dir
+/home/xenon/Desktop/project/build/CMakeFiles/rebuild_cache.dir
